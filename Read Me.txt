@@ -1,0 +1,46 @@
+
+About this game
+***************
+
+This is a very simple game in which the red car is the user. User can move the car either to left or right.
+The user has to keep his car without hitting the black cars. If he hit the car he will lose 3 points. He can gain points by hitting on the energy symbol.
+If hit on the energy symbol he will get 1 point. If you can gain 25 points, you will win. If your points reaches -5, you will lose the game.
+
+
+Controls
+********
+
+You can control your car by hitting the left arrow key and right arrow key.
+to move right - LEFT arrow key
+to move left - RIGHT arrow key
+
+
+How to run
+**********
+
+You have to unzip the folder and copy the folder into Documents in your home directory. Then open your Terminal.
+Type the following codes one by one
+
+cd Documents/racemania/
+python start.py
+
+
+Requirements
+***********
+
+Operating System	:	Ubuntu or other linux distributions
+Modules			:	You have to install pygame module from the synaptic package manager
+Syatem Configuration	:	Normal configurations
+
+
+Development
+***********
+
+This is a simple Car race game developed as a 2 day project. It is developed using the pygame module in python language. Game interface shows the score and plays music when you hit the enemies and energy symbols.
+
+
+Author
+******
+
+You can keep in touch with the developer of this game through his blog http://ajaysoman.blogspot.com
+You can download source codes of various programs and games developed under his projects.
